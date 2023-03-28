@@ -8,4 +8,4 @@ Python 3 must be installed on your machine. You can download it from https://www
 1. Clone the repository from GitHub by running the following command in your terminal:
     `git clone https://github.com/kenshin009/mail.git`
 2. Then, in your terminal, cd into **mail** directory.
-3. Run python manage.py runserver in your terminal.
+3. Run `python manage.py runserver` in your terminal.
